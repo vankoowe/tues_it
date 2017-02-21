@@ -1,0 +1,16 @@
+!DOCTYPE html
+html
+	head
+	titleDaite edna 7-ca!title
+	head
+	body
+	img src=bobiii.jpg
+	p
+		Molqqq daite po dwe 6-ci!
+		Eeeee aide de plzz!
+	p
+	a href=httpswww.google.bgsearchq=boiko+s+adidas&biw=1280&bih=894&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihgZP6-qDSAhUE6xQKHfx0BK4Q_AUIBigB#imgrc=BP1awtyN5RVmpM 
+	a href=httpswww.google.bgsearchq=boiko+s+adidas&biw=1280&bih=894&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihgZP6-qDSAhUE6xQKHfx0BK4Q_AUIBigB#imgrc=_-RUx5P4hXa8rM 
+	a href=httpswww.google.bgsearchq=boiko+s+adidas&biw=1280&bih=894&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihgZP6-qDSAhUE6xQKHfx0BK4Q_AUIBigB#imgrc=OleBEGcPhPlZsM 
+	body
+html
