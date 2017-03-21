@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	
+	<body>
+		<div style = "clear:both">
+		<div style = "float: left">
+		<img src="vanko.jpg" width='130' height='130'>
+		
+		
+		</div>
+		<div>
+			<h1> Nice Dogs </h1>
+			<h2> By Ivan Gamov </h2>
+			
+		</div>
+		<div>
+			<p>Hello!! This is a site about dogs!! They are so beautiful. They can protect your house,but you have to walk with them.</p>
+		<div>
+			<a href="https://en.wikipedia.org/wiki/Cat">Link1</a>
+			<a href="http://www.catsthemusical.com/">Link2</a>
+			<a href="https://www.battersea.org.uk/cats">Link3</a>
+		</div>
+			
+		</div>
+		
+		<div style = "clear:both">
+		<div style = "float: right">
+		<img src="vankoo.jpg" width = '500' height = '300'>
+		<img src="vankooo.jpg" width = '500' height = '500'>
+
+	</body>
+
+</html>
