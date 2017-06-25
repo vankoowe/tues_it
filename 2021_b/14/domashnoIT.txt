@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Za 6-ca ;)</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="css-text" href=domashno.css">
+	</head>
+	
+	<body bgcolor="#E6E6FA">
+		<div>
+			<h1 style="color:blue;">Husky</h1>
+			
+			<h2>All about huskies</h2>
+				<div>
+					<img src="siberian-husky-dog-breed-pictures-5.jpg" width='200' height='120'>
+					<div style = "clear:both">
+					<div style = "float:right">
+					<img src="81f6538eb4101d364ac0588b10040f0e.jpg" width='450' height='250'>
+					<img src="c822012abd32f1fd6d429194ac344c01--eye-colors-wolf-pup.jpg" width='500' height='500'>
+				</div>
+			<h3>Personality</h3>
+			<p>According to the AKC Standard, the Siberian Husky "does not display the possessive qualities of the guard dog,
+			but is he overly suspicious of strangers or aggressive with other dogs." Their exotic, wolf-like appearance makes
+			Huskies appealing to many people, and their even temperament, love of other dogs and indifference to strangers makes them 
+			ideal family dogs. Huskies have a zest for life that is unmatched by few breeds.</p>
+			<br>Every time a Husky is outside, it's as if it's his first time and well into adulthood Huskies play with the vigor of a puppy.
+			They may seem like a good family dog for first time dog owners, but Huskies can often be “too much dog” for a novice.
+			<br>They require extensive training and exercise in order maintain good behavior and only those with the time and energy to fully
+			commit to a Husky should take on this breed. But Husky owners agree, you get out of a Siberian Husky what you put into him,
+			and these reliable dogs are worth the effort.
+			<h4>Activity Requirements</h4>
+			<p>Siberian Huskies need a lot of vigorous activity in order to maintain health and happiness. They were developed as sled dogs, 
+			which means they have energy and endurance to spare, so adopting a Husky means adopting an active lifestyle. This breed enjoys long walks,
+			hikes, jogs and bike rides. In the yard they can play fetch for hours, and some even like to play frisbee.</p>
+			<br>Huskies will feel as though they died and went to heaven when at the dog park with other dogs to run, romp and wrestle with.
+			<br>Their medium size makes Siberian Huskies appealing to apartment dwellers, but this may not be the best living situation for a Husky.
+			<br>They are rowdy and rambunctious well into adulthood and need plenty of room to move about.
+			<h5>Trainability</h5>
+			<p>Husky owners claim their dogs have the ability to perform at the top of their obedience classes, but when they come home they 
+			ignore everything they learned, only to turn it back on again when they return to the next class.</p>
+			<br> This breed is notoriously difficult to train and are generally not well suited for first time owners.
+			<br>Huskies require firm leadership and 100% consistency when it comes to boundaries and rule enforcement.
+			<br> Their expressive eyes can be used to manipulate the softies of the house, so all family members must also be “trained” to be 
+			consistent with rules and leadership.
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
